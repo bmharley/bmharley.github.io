@@ -22,7 +22,7 @@ html {
  * Document and Element Defaults
  * ------------------------------------------
  */
-/* Set every element to border-box sizing. */
+/* Set every element to border-box sizing */
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
